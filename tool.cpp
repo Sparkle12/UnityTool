@@ -1,4 +1,3 @@
-// SCOATE TOT CE TRB MAI AI DE PARALELIZAT, COMENTAT SI CURATAT
 #include <iostream>
 #include <fstream>
 #include <filesystem>
