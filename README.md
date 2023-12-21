@@ -5,8 +5,11 @@
 
 ## Comparison of the performance of the multi-threaded vs single-threaded versions
 (All tests have been ran 1000 times to get the average running time)
+
   Single-threaded test2 average running time = 37452 microseconds 
+  
   Single-threaded test1 average running time = 34442 microseconds 
 
   Multi-threaded test2 average running time = 26997 microseconds
+  
   Multi-threaded test1 average running time = 23729 microseconds
